@@ -1,0 +1,22 @@
+.container {
+  width: 1200px;
+}
+
+.line {
+  display: flex;
+}
+
+.card {
+  border: 2px solid #ee4a4d;
+  height: 170px;
+  margin: 10px;
+  box-shadow: -10px 10px #ee4a4d;
+}
+
+.flex-grow-1 {
+  flex-grow: 1;
+}
+
+.flex-grow-2 {
+  flex-grow: 2.14;
+}
